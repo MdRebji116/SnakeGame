@@ -3,4 +3,4 @@ This repository contains an interactive and addictive Snake Game implemented usi
 
 
 Github Io Link:
-https://yousant.github.io/snakegame/
+https://snake-game-sepia-pi.vercel.app/
